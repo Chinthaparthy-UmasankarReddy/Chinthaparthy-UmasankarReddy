@@ -1,6 +1,6 @@
-# UmasankarReddy-Chinthaparthy
+# Chinthaparthy-UmasankarReddy
 
-# Hello World, I'm UmasankarReddy-Chinthaparthy! 👋
+# Hello World, I'm Chinthaparthy-UmasankarReddy! 👋
 
 ### 👨‍💻 About Me
 I am a **Senior DevOps Engineer** with **3.6 years of professional experience** in automating, scaling, and monitoring cloud-based infrastructure. I specialize in building "Internal Developer Platforms" that help teams ship code faster and more securely.
@@ -33,11 +33,11 @@ I am a **Senior DevOps Engineer** with **3.6 years of professional experience** 
 ---
 
 ### 📈 GitHub Activity
-![UmasankarReddy-Chinthaparthy's GitHub stats](https://github-readme-stats.vercel.app/api?username=UmasankarReddy-Chinthaparthy&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UmasankarReddy-Chinthaparthy&layout=compact&theme=tokyonight)
+![Chinthaparthy-UmasankarReddy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chinthaparthy-UmasankarReddy&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chinthaparthy-UmasankarReddy&layout=compact&theme=tokyonight)
 
 ---
 
 ### 🤝 Connect with me
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/UmasankarReddy-Chinthaparthy)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/Chinthaparthy-UmasankaReddy)
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/)

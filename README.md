@@ -3,7 +3,7 @@
 # Hello World, I'm Chinthaparthy-UmasankarReddy! 👋
 
 ### 👨‍💻 About Me
-I am a **Senior DevOps Engineer** with **3.6 years of professional experience** in automating, scaling, and monitoring cloud-based infrastructure. I specialize in building "Internal Developer Platforms" that help teams ship code faster and more securely.
+I am a **Senior DevOps Engineer** with **3.8 years of professional experience** in automating, scaling, and monitoring cloud-based infrastructure. I specialize in building "Internal Developer Platforms" that help teams ship code faster and more securely.
 
 - 🔭 **Current Focus:** Optimizing Kubernetes cost-management and GitOps workflows.
 - ⚡ **Key Achievement:** Reduced deployment time by 40% using automated CI/CD pipelines.

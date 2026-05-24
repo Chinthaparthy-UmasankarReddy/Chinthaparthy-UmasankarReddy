@@ -3,7 +3,7 @@
 # Hello World, I'm Chinthaparthy-UmasankarReddy! 👋
 
 ### 👨‍💻 About Me
-I am a **Senior DevOps Engineer** with **3.8 years of professional experience** in automating, scaling, and monitoring cloud-based infrastructure. I specialize in building "Internal Developer Platforms" that help teams ship code faster and more securely.
+I am a **Senior DevOps Engineer** with **4 years of professional experience** in automating, scaling, and monitoring cloud-based infrastructure. I specialize in building "Internal Developer Platforms" that help teams ship code faster and more securely.
 
 - 🔭 **Current Focus:** Optimizing Kubernetes cost-management and GitOps workflows.
 - ⚡ **Key Achievement:** Reduced deployment time by 40% using automated CI/CD pipelines.
@@ -26,9 +26,9 @@ I am a **Senior DevOps Engineer** with **3.8 years of professional experience** 
 ---
 
 ### 🏗️ Featured Projects
-* **[K8s-Hardening-Project](https://github.com/ramu/k8s-hardening):** A collection of security policies and network rules for production-grade Kubernetes clusters.
-* **[Terraform-AWS-VPC-Module](https://github.com/ramu/tf-aws-vpc):** A reusable module for deploying multi-AZ VPCs with public/private subnets and NAT gateways.
-* **[Auto-Scale-CI-Workers](https://github.com/ramu/ci-autoscaler):** Python script to dynamically scale Jenkins/GitHub runners based on job queue depth.
+* **[K8s-Hardening-Project](https://github.com/Chinthaparthy-UmasankarReddy/k8s-hardening):** A collection of security policies and network rules for production-grade Kubernetes clusters.
+* **[Terraform-AWS-VPC-Module](https://github.com/Chinthaparthy-UmasankarRedd/tf-aws-vpc):** A reusable module for deploying multi-AZ VPCs with public/private subnets and NAT gateways.
+* **[Auto-Scale-CI-Workers](https://github.com/Chinthaparthy-UmasankarRedd/ci-autoscaler):** Python script to dynamically scale Jenkins/GitHub runners based on job queue depth.
 
 ---
 
